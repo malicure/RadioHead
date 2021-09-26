@@ -1,7 +1,8 @@
 # RadioHead
 git repository instance of http://www.airspayce.com/mikem/arduino/RadioHead
 
-Below is a snapshot of https://www.airspayce.com/mikem/arduino/RadioHead :
+Below is a snapshot of https://www.airspayce.com/mikem/arduino/RadioHead
+It's not reformatted yet, some parts look messy in this README :
 
 
 RadioHead Packet Radio library for embedded microprocessors
