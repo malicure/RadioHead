@@ -1404,6 +1404,7 @@ these examples and explanations and extend them to suit your needs.
 // Spencer Kondes megaTinyCore:						   
 #define RH_PLATFORM_ATTINY_MEGA      18
 #define RH_PLATFORM_STM32L0          19
+#define RH_PLATFORM_RP2040           20
 						   
 ////////////////////////////////////////////////////
 // Select platform automatically, if possible
